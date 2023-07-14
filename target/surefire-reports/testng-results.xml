@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-14T21:51:57Z" name="User acceptance TestSuite" finished-at="2023-07-14T21:52:10Z" duration-ms="12986">
+    <groups>
+    </groups>
+    <test started-at="2023-07-14T21:51:57Z" name="Expense Tracker Validattion" finished-at="2023-07-14T21:52:10Z" duration-ms="12986">
+      <class name="tests.TestClass">
+        <test-method is-config="true" signature="setupEnvironment()[pri:0, instance:tests.TestClass@fad74ee]" started-at="2023-07-14T14:51:50Z" name="setupEnvironment" finished-at="2023-07-14T14:51:57Z" duration-ms="7046" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupEnvironment -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.TestClass@fad74ee]" started-at="2023-07-14T14:51:57Z" name="setUp" finished-at="2023-07-14T14:52:00Z" duration-ms="2673" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="invalidEmailIdWithSomeSpecialCharacters()[pri:0, instance:tests.TestClass@fad74ee]" started-at="2023-07-14T14:52:00Z" name="invalidEmailIdWithSomeSpecialCharacters" finished-at="2023-07-14T14:52:02Z" duration-ms="2182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidEmailIdWithSomeSpecialCharacters -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.TestClass@fad74ee]" started-at="2023-07-14T14:52:02Z" name="setUp" finished-at="2023-07-14T14:52:03Z" duration-ms="780" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="invalidEmailIdWithoutContextPostATTheRateSymbol()[pri:0, instance:tests.TestClass@fad74ee]" started-at="2023-07-14T14:52:03Z" name="invalidEmailIdWithoutContextPostATTheRateSymbol" finished-at="2023-07-14T14:52:04Z" duration-ms="895" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidEmailIdWithoutContextPostATTheRateSymbol -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.TestClass@fad74ee]" started-at="2023-07-14T14:52:04Z" name="setUp" finished-at="2023-07-14T14:52:04Z" duration-ms="111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="invalidEmailWithoutDomain()[pri:0, instance:tests.TestClass@fad74ee]" started-at="2023-07-14T14:52:04Z" name="invalidEmailWithoutDomain" finished-at="2023-07-14T14:52:05Z" duration-ms="385" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidEmailWithoutDomain -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.TestClass@fad74ee]" started-at="2023-07-14T14:52:05Z" name="setUp" finished-at="2023-07-14T14:52:05Z" duration-ms="74" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validEmailIdWithAllowedSpecialCharacters()[pri:0, instance:tests.TestClass@fad74ee]" started-at="2023-07-14T14:52:05Z" name="validEmailIdWithAllowedSpecialCharacters" finished-at="2023-07-14T14:52:08Z" duration-ms="2988" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validEmailIdWithAllowedSpecialCharacters -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.TestClass@fad74ee]" started-at="2023-07-14T14:52:08Z" name="setUp" finished-at="2023-07-14T14:52:08Z" duration-ms="870" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validEmailIdWithLocalAndDomainSections()[pri:0, instance:tests.TestClass@fad74ee]" started-at="2023-07-14T14:52:08Z" name="validEmailIdWithLocalAndDomainSections" finished-at="2023-07-14T14:52:10Z" duration-ms="2005" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validEmailIdWithLocalAndDomainSections -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.TestClass@fad74ee]" started-at="2023-07-14T14:52:11Z" name="tearDown" finished-at="2023-07-14T14:52:13Z" duration-ms="2132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.TestClass -->
+    </test> <!-- Expense Tracker Validattion -->
+  </suite> <!-- User acceptance TestSuite -->
+</testng-results>
