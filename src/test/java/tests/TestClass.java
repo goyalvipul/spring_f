@@ -59,6 +59,19 @@ public class TestClass {
     
     
     
+    /**
+     * 
+     * 
+     * ABOVE -- Test cases are written using Data Provider -- which removes the duplicate code creation instead we can use Data Driven Model to drive the execution of tests
+     * 
+     * BELOW -- Are the tests written without data provider.. Hardcoding the Test data within the tests.. 
+     * NOT Removing the below tests to showcase the benefit of data providers.
+     * 
+     */
+    
+    
+    
+    
 //  @Test
 //  public void invalidEmailIdWithoutContextPostATTheRateSymbol() {
 //  	contactus.fillEmail(driver, "testemail@");      
