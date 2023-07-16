@@ -9,12 +9,14 @@
 
 **Automation Framework details:**
 1. 	Framework Used:
-    0	Contact Us page being a form,the  **“Data Drive framework”** fits best to this.
-   	0 **Data Providers** are used to feed Test Data to the tests and spearhead the execution.
-2.	Build Tool: **Maven**
-3.	Testing Framework: **TestNG**
-4.	Reporting Tools:
-    0	**TestNG** – for basic test reports
-    0	**Surefire Plugin** – Used the Surefire plugin to generate an emailable report. This can be extended a lot in capabilities. 
-5.	Design Patterns Used:
-    0	Page Object Model
+   0	Contact Us page being a form,the  **“Data Drive framework”** fits best to this.
+   0    **Data Providers** are used to feed Test Data to the tests and spearhead the execution.
+3.	Build Tool:
+      **Maven**
+5.	Testing Framework:
+      **TestNG**
+7.	Reporting Tools:
+   0	**TestNG** – for basic test reports
+   0	**Surefire Plugin** – Used the Surefire plugin to generate an emailable report. This can be extended a lot in capabilities. 
+9.	Design Patterns Used:
+   0	Page Object Model
